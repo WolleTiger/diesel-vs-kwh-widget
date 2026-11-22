@@ -6,6 +6,10 @@ A small home screen widget for iPhone that answers one question at a glance:
 
 The widget finds the nearest diesel station with the [Tankerkönig](https://creativecommons.tankerkoenig.de/) price API, shows its current price, and calculates what 100 km cost by diesel versus grid electricity. It also shows the **break-even electricity price**: the price per kWh at which charging costs the same as diesel.
 
+<p align="center">
+  <img src="docs/screenshot.jpg" alt="Diesel vs. kWh widget on iPhone" width="260">
+</p>
+
 > **Note:** This project was developed with the help of AI (Claude by Anthropic). The idea, the requirements, and the testing on my own iPhone are mine; the code was written in collaboration with an AI assistant.
 
 ## Features
