@@ -83,4 +83,4 @@ The script stores the last known location and the last fetched price **only on y
 
 ## License
 
-No license has been chosen yet. Until one is added, all rights are reserved by the author.
+This project is licensed under the [MIT License](LICENSE).
